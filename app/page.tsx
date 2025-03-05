@@ -30,6 +30,7 @@ export default function Home() {
 <h1>Alhamdulillah, Alhamdulillah, Alhamdulillah</h1>
 <h4> alhamdulillah</h4>
 
+<h1> SubhanAllah</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
