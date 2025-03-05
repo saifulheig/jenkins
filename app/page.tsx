@@ -26,6 +26,7 @@ export default function Home() {
 <h1>Alhamdulillah, Jenkins works good</h1>
 <h2>Masha'Allah</h2>
 <h3> Bismillah</h3>
+<h1> Alhamdulillah</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
