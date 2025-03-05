@@ -31,6 +31,7 @@ export default function Home() {
 <h4> alhamdulillah</h4>
 
 <h1> SubhanAllah</h1>
+<p> This a test phrase to show Tangila today </p>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
