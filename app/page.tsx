@@ -27,6 +27,9 @@ export default function Home() {
 <h2>Masha'Allah</h2>
 <h3> Bismillah</h3>
 <h1> Alhamdulillah</h1>
+<h1>Alhamdulillah, Alhamdulillah, Alhamdulillah</h1>
+<h4> alhamdulillah</h4>
+
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
